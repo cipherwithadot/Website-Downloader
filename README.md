@@ -1,4 +1,5 @@
-# Website-Cloner
-This is made with NodeJS and is not fast + Code Not By Me 
+# Website Downloader / Cloner 
 
-Will somehow make website downloader faster if i get more stars idk
+This is made with NodeJS and is not that fast...
+
+I found this code on some random website and just posted it onto github 
